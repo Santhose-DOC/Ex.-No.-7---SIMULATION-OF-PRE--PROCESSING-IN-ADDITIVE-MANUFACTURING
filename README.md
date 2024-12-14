@@ -1,5 +1,5 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+## Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+### DATE: 14/12/2024
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -44,9 +44,22 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![289532565-e8a9540b-1b7e-4c23-b116-e7eedb2ab5d3](https://github.com/user-attachments/assets/26ac65ba-ba02-48ed-96c8-ea7b613d498c)
 
-### Name:
-### Register Number:
+![289532728-9a7c8c3a-c6a6-441d-8a5f-9946ce9c8ee9](https://github.com/user-attachments/assets/eaf9ac88-76b6-4fda-8e59-35480cc88078)
+
+![289532925-371f84b3-ecdd-42ec-8bae-28d948cf9ea2](https://github.com/user-attachments/assets/1ee57660-deaa-4594-bf0f-1ee2cf818254)
+
+![289533105-9d5cdc45-a408-4c11-9ae5-22ad5174168a](https://github.com/user-attachments/assets/bae941f1-3b18-4914-a3ed-5632fab2387f)
+
+![289533195-aea5d4a6-63c0-48c6-8805-0e879a1c4f2b](https://github.com/user-attachments/assets/75a7cfee-6cbd-4729-94ea-8a2fbe4be3a9)
+
+![289533292-221e6f9e-8d36-41c2-8bcd-b2ee791bf763](https://github.com/user-attachments/assets/865cf83a-8927-43f8-b755-35762bdcd65b)
+
+
+
+### Name: Santhose Arockiaraj J
+### Register Number: 24900171
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
